@@ -1,0 +1,8 @@
+estrategia,direccion_cambio,cantidad_partidos
+Baseline,Estabilidad,135
+Random Forest,Aumento,5
+Random Forest,Disminución,125
+Random Forest,Estabilidad,5
+Tendencia,Aumento,5
+Tendencia,Disminución,127
+Tendencia,Estabilidad,3

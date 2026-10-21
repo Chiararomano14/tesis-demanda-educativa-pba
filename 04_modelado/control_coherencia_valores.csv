@@ -1,0 +1,4 @@
+variable,valores_negativos,valores_cero,valores_nulos
+matricula,0,0,0
+prediccion_baseline,0,0,0
+prediccion_random_forest,0,0,0
