@@ -1,0 +1,3 @@
+partido,nivel,matricula,orden_arima,metodo
+CASTELLI,SECUNDARIA,558.0,"(0, 1, 0)",respaldo_historial_corto
+LEZAMA,SECUNDARIA,65.0,,persistencia_historial_incompleto

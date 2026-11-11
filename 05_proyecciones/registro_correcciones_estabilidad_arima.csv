@@ -1,0 +1,5 @@
+partido,nivel,orden_original,orden_nuevo,motivo
+BRAGADO,INICIAL,"(1, 1, 1)","(0, 1, 1)",Proyeccion negativa a largo plazo
+BRAGADO,PRIMARIA,"(1, 1, 1)","(0, 1, 1)",Proyeccion negativa a largo plazo
+GUAMINI,INICIAL,"(1, 1, 1)","(0, 1, 1)",Proyeccion negativa a largo plazo
+MORON,PRIMARIA,"(1, 1, 0)","(0, 1, 1)",Proyeccion negativa a largo plazo
